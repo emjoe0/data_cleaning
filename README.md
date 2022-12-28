@@ -1,5 +1,5 @@
 # data_cleaning
-These are the projects I did which includes data cleaning like:
+## These are the projects I did which includes data cleaning like:
 checking for missing values and filling them
 checking for duplicates
 checking for outliers and treatment if found
